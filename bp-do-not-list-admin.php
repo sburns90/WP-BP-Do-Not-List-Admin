@@ -1,7 +1,7 @@
 <?php
 	/*
 	Plugin Name: SB - BuddyPress Don't List Admin
-	Plugin URI: http://www.hongkiat.com/blog/buddypress-tips-resources/
+	Plugin URI: http://StephenBurns.net
 	Description: Hide BuddyPress admin user from member listing and doesn't count admin when counting members or group members. Used code snippets from Brajesh Singh and philipstancil at buddypress.org.
 	Version: 1.0
 	Author: Stephen Burns
@@ -29,6 +29,10 @@
 	* UNFISHIED (4-18-16) Clean up code.
 	* UNFISHIED (4-18-16) Add initial values for the variables and also try to reduce the number of variables used.
 	* UNFISHIED (4-18-16) Fix group user count in search results. 
+	* */
+	
+	/* NOTE:
+	* Code concept from http://www.hongkiat.com/blog/buddypress-tips-resources/
 	* */
 ?>
 
